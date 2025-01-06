@@ -9,5 +9,6 @@ app_file: app.py
 pinned: false
 license: cc
 
-[Try Demo Text Summarization at](https://huggingface.co/spaces/Salman3Tariq/Demo)
 ---
+
+[Try Demo Text Summarization at](https://huggingface.co/spaces/Salman3Tariq/Demo)
