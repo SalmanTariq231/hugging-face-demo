@@ -1,13 +1,13 @@
 # hugging-face-demo
 ---
-license: cc
+
 title: Text Summarization
 sdk: gradio
 emoji: 😻
-colorFrom: indigo
-colorTo: indigo
+colorFrom: purple
+colorTo: purple
 pinned: false
 app_file = app.py
+license: cc
 [Try Demo Text Summarization at](https://huggingface.co/spaces/Salman3Tariq/Demo)
 ---
-# hugging-face-demo
